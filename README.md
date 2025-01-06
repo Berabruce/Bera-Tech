@@ -1,4 +1,24 @@
+HOW TO DEPLOY BERA TECH BOT
 
+
+## 𝟙.𝔽𝕀ℝ𝕊𝕋 𝕊𝕋𝔼ℙ 
+ғᴏʀᴋ ʟᴜᴄᴋʏ ᴍᴅ ʀᴇᴘᴏ
+
+
+</a></p>
+- <a href="https://github.com/Berabruce/Bera-Tec/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=silver&style=for-the-badge&logo=ferrari&logoColor=gold" width="240" height="38.45"/></a></p>
+
+sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®️
+
+
+
+##
+
+
+## 𝟚.ᴡᴇʙ sɪᴛᴇ ᴛᴏ ɢᴇᴛ sᴇssɪᴏɴ ᴠɪᴀ ǫʀ & ᴘᴀɪʀ
+ 
+</a></p>
+- <a href="https://bera-tech-web-631f83222aed.herokuapp.com/"><img title="GET SESSION ID HERE" src="https://img.shields.io/badge/SCAN CODE HERE-h?color=silver&style=for-the-badge&logo=ferrari&logoColor=gold" width="240" height="38.45"/></a></p>
  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/Berabruce/Bera-Tech)
 
